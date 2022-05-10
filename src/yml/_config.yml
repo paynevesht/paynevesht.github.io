@@ -1,46 +1,15 @@
 # Site Settings
-name: PayNevesht
-title: PayNevesht
-description: 
-tags:
-  - book
-show_hero: true
-menu:
-  - title: Home
-    url: /
-email: payberah@gmail.com
-# See: https://disqus.com/
-disqus_username: 
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: 
-
+#=include site.yml
 
 # Social Media Settings
 # Remove the item if you don't need it
-#github_username: github_username
-#facebook_username: facebook_username
-twitter_username: apayberah
-instagram_username: payberah
-#linkedin_username: linkedin_username
-#medium_username: medium_username
-
+#=include social.yml
 
 # Posts Settings
-show_time_bar: false
-show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: false
-
+#=include posts.yml
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
-categories_folder: category
-sent_message_url: "/contact/message-sent/"
-
+#=include advanced.yml
 
 # Build settings
 markdown: kramdown
@@ -50,7 +19,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: false
+show_get_theme_btn: true
 use_logo: false
 
 # Content paginator

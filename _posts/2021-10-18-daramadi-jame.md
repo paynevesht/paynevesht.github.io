@@ -13,7 +13,7 @@ author: thiagorossener
 paginate: true
 ---
 
-<div align="justify" dir="rtl" style="font-family:vazir;font-size:18px;margin-right:3%;margin-right:3%;">
+<div align="justify" dir="rtl" style="font-family:vazir;font-size:18px;margin-left:3%;margin-right:3%;">
 
 کتاب «درآمدی جامع بر نظریه‌های فمینیستی» نوشته رزماری تانگ، کتاب منسجم و خوبی‌ست که دیدگاه‌های مختلف فمینیستی را مورد بررسی قرار داده. خلاصه‌ای از دیدگاه‌هایی که در این کتاب مورد بررسی قرار گرفته‌اند را در ادامه می‌آورم:<br>
 <br>
